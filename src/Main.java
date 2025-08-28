@@ -18,5 +18,12 @@ public class Main {
         System.out.println("10. git origin desarrollojava");
         System.out.println("11. git checkout ");
         System.out.println("git pull origin ");
+
+
+        System.out.println("Ruth Nataly Ballesteros Sierra");
+        System.out.println("Mi residencia es en zipaquira cundinamarca");
+        System.out.println("Tengo 1 mascota, es un gato, es de color naranja y se llama molly");
+
+
     }
 }
